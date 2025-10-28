@@ -31,8 +31,7 @@ To track sales trends, understand customer preferences, and compare performance 
 
 ## 🖼️ Preview
 Here is my dashboard screenshot 
-https://drive.google.com/file/d/13WIQ3h7BwqtLSp8npbIKqLsxxEH02IZF/view?usp=drive_link 
-
+https://drive.google.com/file/d/1r5d6Lbe-4IJMlkISmep-S6vB0V36ieuQ/view?usp=drive_link
 ---
 
 ## 💡 Tools Used
