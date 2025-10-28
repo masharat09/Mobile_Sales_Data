@@ -30,16 +30,15 @@ To track sales trends, understand customer preferences, and compare performance 
 ---
 
 ## 🖼️ Preview
-*(You can add a screenshot of your dashboard here for better presentation)*  
-`![Mobile Sales Dashboard Preview](path_to_your_image.png)`
+Here is my dashboard screenshot 
+https://drive.google.com/file/d/13WIQ3h7BwqtLSp8npbIKqLsxxEH02IZF/view?usp=drive_link 
 
 ---
 
 ## 💡 Tools Used
 - **Microsoft Power BI** for data visualization  
-- **Excel / CSV** (if used) for data source  
+- **Excel is used for data source  
 ---
 
-### 📬 Contact
-For any questions or feedback, feel free to reach out or open an issue in this repository.
+
 
